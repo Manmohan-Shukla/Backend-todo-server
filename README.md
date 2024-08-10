@@ -10,7 +10,7 @@ Node.js and npm  installed
 Installation
 Clone the repository:
 Bash
-git clone https://github.com/your-username/todo-backend.git
+git clone (https://github.com/Manmohan-Shukla/Backend-todo-server.git)
 cd todo-backend
 Use code with caution.
 
